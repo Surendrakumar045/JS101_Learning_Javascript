@@ -1,2 +1,2 @@
 # JS101_Learning_Javascript
-There is a JavaScript Code those are learner for very helpful
+There is a JavaScript Code those are help to learner
